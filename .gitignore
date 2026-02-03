@@ -1,7 +1,15 @@
+# Editor settings
 .vscode/
+
+# Environment scripts
 env_setup.sh
+
+# Notes & Tests
 resources.txt
 todo.txt
 test.py
+
+# Training Artifacts (Crucial to ignore!)
 smol_135m_checkpoints/
 __pycache__/
+*.pyc
