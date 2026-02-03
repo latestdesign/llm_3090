@@ -4,12 +4,12 @@
 # Environment scripts
 env_setup.sh
 
-# Notes & Tests
+# Notes and tests
 resources.txt
 todo.txt
 test.py
 
-# Training Artifacts (Crucial to ignore!)
-smol_135m_checkpoints/
+# Training Artifacts
 __pycache__/
 *.pyc
+# *_checkpoints/
