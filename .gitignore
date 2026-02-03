@@ -1,0 +1,7 @@
+.vscode/
+env_setup.sh
+resources.txt
+todo.txt
+test.py
+smol_135m_checkpoints/
+__pycache__/
