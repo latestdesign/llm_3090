@@ -5,9 +5,9 @@
 env_setup.sh
 
 # Notes and tests
+tests/*
 resources.txt
 todo.txt
-test.py
 
 # Training Artifacts
 __pycache__/
